@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday Annie!</title>
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 id="greeting">Oh my god, look who it is!</h1>
+        <div class="flower-container" id="flowerContainer"></div>
+        <div class="bouquet-container" id="bouquetContainer">
+            <img src="https://i.imgur.com/your-bouquet-image.png" alt="Bouquet" id="bouquet">
+            <img src="https://i.imgur.com/your-envelope-closed.png" alt="Envelope" id="envelope">
+            <div class="note" id="note">
+                <p>Happy birthday to you, Annie! I literally love you so much, and you mean a lot to me. You are so cute, so hot, so daddy, so pretty. I literally love you so much. Have a great birthday, happy birthday to you again!</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
